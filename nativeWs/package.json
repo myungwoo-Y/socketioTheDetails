@@ -10,5 +10,8 @@
   "dependencies": {
     "ws": "^6.2.1"
   },
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
 }
